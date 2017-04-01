@@ -18,6 +18,9 @@ public class PruebaPPOO {
         // TODO code application logic here
         
         System.out.println("Hola Profundizacion Orientada a Objetos");
+        System.out.println("Hola Profundizacion Orientada a Objetos");
+        System.out.println("Hola Profundizacion Orientada a Objetos");
+        System.out.println("Hola Profundizacion Orientada a Objetos");
     }
     
 }
